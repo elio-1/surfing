@@ -1,0 +1,8 @@
+.jumbotron {
+  height: 100%;
+  background-image: url("surf.jpg");
+  background-color: #cccccc;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
